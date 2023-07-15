@@ -9551,5 +9551,44 @@
     "name": "mahskill-788.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/Skill/15-Jul-2023/202307121504586903.pdf": {
+    "code": "202307121504586903",
+    "crawl_dir": "15-Jul-2023",
+    "date": "12-07-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-07-15T15:04:40.878531",
+    "size_kb": "891",
+    "text": "Regarding disbursement of funds under the Maharashtra State Innovative Startup Policy Scheme. (Year 2023-24 Requisition No. ZA-2, Account Head 2230 A 334)",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307121504586903.pdf",
+    "name": "mahskill-789.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/Skill/15-Jul-2023/202307121544177003.pdf": {
+    "code": "202307121544177003",
+    "crawl_dir": "15-Jul-2023",
+    "date": "12-07-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-07-15T15:04:45.018517",
+    "size_kb": "140",
+    "text": "Regarding constitution of a committee under the chairmanship of Hon. Minister, Skills, Employment, Entrepreneurship and Innovation for the demand of the regularization of the contractual Instructor in the second and third phase of the Government Industrial Training Institute",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307121544177003.pdf",
+    "name": "mahskill-790.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/Skill/15-Jul-2023/202307121552145103.pdf": {
+    "code": "202307121552145103",
+    "crawl_dir": "15-Jul-2023",
+    "date": "12-07-2023",
+    "dept": "Skill Development and Entrepreneurship Department",
+    "download_time": "2023-07-15T15:04:49.723432",
+    "size_kb": "337",
+    "text": "Regarding upgradation of the existing Industrial Training Institute into model Industrial Training Institute under this scheme the general component central share 2230A737 and state share 2230A728 funds redistributing under the head of 31.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307121552145103.pdf",
+    "name": "mahskill-791.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
   }
 }
